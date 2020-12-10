@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.js": "/kelisto-frontend-js-challenge/static/js/main.9cfb59cd.chunk.js",
+    "main.js.map": "/kelisto-frontend-js-challenge/static/js/main.9cfb59cd.chunk.js.map",
+    "runtime-main.js": "/kelisto-frontend-js-challenge/static/js/runtime-main.67c6fa21.js",
+    "runtime-main.js.map": "/kelisto-frontend-js-challenge/static/js/runtime-main.67c6fa21.js.map",
+    "static/js/2.969f8632.chunk.js": "/kelisto-frontend-js-challenge/static/js/2.969f8632.chunk.js",
+    "static/js/2.969f8632.chunk.js.map": "/kelisto-frontend-js-challenge/static/js/2.969f8632.chunk.js.map",
+    "static/js/3.2e771240.chunk.js": "/kelisto-frontend-js-challenge/static/js/3.2e771240.chunk.js",
+    "static/js/3.2e771240.chunk.js.map": "/kelisto-frontend-js-challenge/static/js/3.2e771240.chunk.js.map",
+    "index.html": "/kelisto-frontend-js-challenge/index.html",
+    "static/js/2.969f8632.chunk.js.LICENSE.txt": "/kelisto-frontend-js-challenge/static/js/2.969f8632.chunk.js.LICENSE.txt",
+    "static/media/kelisto-logo.94ed9e1c.png": "/kelisto-frontend-js-challenge/static/media/kelisto-logo.94ed9e1c.png",
+    "static/media/shopping-bag.a688874f.svg": "/kelisto-frontend-js-challenge/static/media/shopping-bag.a688874f.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.67c6fa21.js",
+    "static/js/2.969f8632.chunk.js",
+    "static/js/main.9cfb59cd.chunk.js"
+  ]
+}
